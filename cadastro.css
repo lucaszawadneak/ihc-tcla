@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.iconmebaby {
+  position: relative;
+  margin: 5px;
+}
+input {
+  display: inline-block;
+  width: 300px;
+  height: 30px;
+}
+
+svg {
+  position: absolute;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  left: 480px;
+  top: 2px;
+}
