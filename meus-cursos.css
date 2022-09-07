@@ -1,63 +1,17 @@
-.container {
-  width: 100%;
-}
 
-h1 {
-  text-align: center;
-}
-
-span {
-  text-align: center;
-  font-size: 20px;
-  text-align: center;
-  font-weight: bold;
-}
 
 img {
   width: 300px;
-  height: 200px;
+  height: 150px;
 }
 
 
-.cursos-div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  width: 100%;
-  margin-right: 50px;
-}
-.helper-buttons{
-    display: flex;
+
+.help-center{
+  width:100%;
+  display:flex;
+  align-items: center ;
+  justify-content: center;
 }
 
-.curso-card {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  justify-content: space-around;
-  border-style: solid;
-  border-width: 2px;
-  border-radius: 10px;
-  padding: 10px;
-  margin-bottom: 10px;
 
-  width: 100%;
-  margin-right: 10px;
-}
-
-.btn-novo-curso {
-  cursor: pointer;
-}
-
-.div-body {
-  display: flex;
-  flex-direction: row;
-
-  justify-content: space-around;
-  align-items: center;
-}
-
-.helper-button{
-    display: flex;
-    align-items: center;
-}
